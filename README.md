@@ -83,14 +83,14 @@ Difficulty: ⭐☆☆☆☆
 
 Polyfills
 
-- [ ] myForEach
-- [ ] myMap
-- [ ] myFilter
+- [✔] myForEach
+- [✔] myMap
+- [✔] myFilter
 - [ ] myFind
 - [ ] myFindIndex
 - [ ] mySome
 - [ ] myEvery
-- [ ] myReduce
+- [✔] myReduce
 
 You'll learn
 

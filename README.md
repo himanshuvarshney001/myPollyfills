@@ -86,10 +86,10 @@ Polyfills
 - [✔] myForEach
 - [✔] myMap
 - [✔] myFilter
-- [ ] myFind
-- [ ] myFindIndex
-- [ ] mySome
-- [ ] myEvery
+- [✔] myFind
+- [✔] myFindIndex
+- [✔] mySome
+- [✔] myEvery
 - [✔] myReduce
 
 You'll learn
